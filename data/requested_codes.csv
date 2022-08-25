@@ -1,0 +1,18 @@
+Offense Code,Literal,Citation,Statute,L/D,Bill #/Reason,category_degree,category,comment
+23160001,THEFT-MAIL <=10 ADDRESSES,31.20(c)(1),PC,MA,HB37,misdemeanor,package_theft,from here update 
+23160002,THEFT-MAIL =10<30 ADDRESSES,31.20(c)(2),PC,FS,HB37,felony,package_theft,
+23160003,THEFT-MAIL =>30 ADDRESSES,31.20(c)(3),PC,F3,HB37,felony,package_theft,
+23160004,THEFT-MAIL ID INFO <=10 ADDRESSES IAT,31.20(d)(1),PC,FS,HB37,felony,package_theft,
+23160005,THEFT-MAIL ID INFO =10<20 ADDRESSES IAT,31.20(d)(2),PC,F3,HB37,felony,package_theft,
+23160006,THEFT-MAIL ID INFO =20<50 ADDRESSES IAT,31.20(d)(3),PC,F2,HB37,felony,package_theft,
+23160007,THEFT-MAIL ID INFO =>50 ADDRESSES IAT,31.20(d)(4),PC,F1,HB37,felony,package_theft,
+23160008,THEFT-MAIL ID INFO <=10 ADDRESSES ENH IAT,31.20(e),PC,F3,HB37,felony,package_theft,
+23160009,THEFT-MAIL ID INFO =10<20 ADDRESSES ENH IAT,31.20(e),PC,F2,HB37,felony,package_theft,
+23160010,THEFT-MAIL ID INFO =20<50 ADDRESSES ENH IAT,31.20(e),PC,F1,HB37,felony,package_theft,
+23990191,THEFT PROP >=$100<$750,31.03(e)(2)(A),PC,MB,,misdemeanor,other,from here:  https://www.dps.texas.gov/administration/crime_records/docs/cjis/offenseCodesStatuteOrder.rtf
+23990192,THEFT PROP <$100 W/PREV CONVIC,31.03(e)(2)(B),PC,MB,,misdemeanor,other,
+23990132,THEFT FROM PERSON,31.03(e)(4)(B),PC,FS,,felony,other,
+23990196,"THEFT PROP <$2,500  2/MORE PREV CONV",31.03(e)(4)(D),PC,FS,,felony,other,
+23990198,THEFT PROP >=$30K<$150K,31.03(e)(5),PC,F3,,felony,other,
+23990205,THEFT PROP <$100 ENH IAT,31.03(f),PC,MB,,misdemeanor,other,
+23990206,THEFT PROP <$100 W/PREV CONVIC ENH IAT,31.03(f),PC,MA,,misdemeanor,other,
